@@ -2,6 +2,10 @@
 
 A C++ implementation of the ALTCHA Proof-of-Work (PoW) v2 mechanism. This tool is designed for benchmarking and testing.
 
+> [!TIP]
+> This repository is deprecated. Please use the new [`altcha-lib-cpp`](https://github.com/altcha-org/altcha-lib-cpp), which also provides a CLI utility.
+
+
 ## Usage
 
 The solver accepts a JSON challenge and an optional thread count.
